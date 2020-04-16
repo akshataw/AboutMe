@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Akshata</string>
+    <string name="yellow_start">Yellow Star</string>
+    <string name="bio_text">TextView</string>
+    <string name="bio">Hi, my name is Akshata.
+        \n\nI am a Software Engineer Working at Udgama.
+        \n\nI like to learn new technologies and watching movies.
+        \nI have started writing blogs on the technology related stuff.
+        \nI like attending meetups, meeting new people and enjoying with friends.
+        \n\nMy GitHub Handle is akshataw.
+        \nHave a great day.\n\n</string>
+    <string name="what_is_you_nickname">What is you Nickname?</string>
+    <string name="done">Done</string>
+</resources>
